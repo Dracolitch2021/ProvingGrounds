@@ -1,0 +1,2 @@
+Target info: 172.16.14.115
+Ports with primary scan: sudo nmap --top-ports 1500 -Pn -T4 -sS 172.16.14.115  
